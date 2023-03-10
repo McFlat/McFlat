@@ -2,8 +2,6 @@
 <h3 align="center">I'm a full-stack web developer with 20 years experience working with many different technologies. I love learning new things and staying up to date with the cool stuff... I love life and love being alive!</h3>
 <h6 align="center">Watch the videos and educate yourself</h6>
 
-[![Aleksandr Goretoy](https://s3.wasabisys.com/public-videos/assets/images/alex-goretoy-512.jpg)](https://troo.pro)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcflat" alt="mcflat" /></a> </p>
 
 - Treat others how you want to be treated and give the measure you want to be given...
